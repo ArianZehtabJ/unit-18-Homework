@@ -1,4 +1,4 @@
-# Unit 18 Homework: PyChain Ledger - Rachel Pierce
+# Unit 18 Homework: PyChain Ledger 
 ## January 2022
 
 ## *Instructions:*
